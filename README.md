@@ -1,2 +1,5 @@
-# sunumlar
-Konuşmacı olarak katıldığım çeşitli etkinliklerdeki sunumları bu repoda topluyorum.
+# Sunumlar
+
+Konuşmacı olarak katıldığım çeşitli etkinliklerdeki sunumlara ait powerpoint içeriklerini bu klasörde bulabilirsiniz. Sunumları genellikle Google Slides kullanarak hazırlıyorum.
+
+- 
