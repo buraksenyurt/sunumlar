@@ -19,3 +19,4 @@ Konuşmacı olarak katıldığım ve DT Techdili Mekan sohbetleri 2020'den bu ya
 - [DevNot Developer Summit 2021 - Monolitik Uygulamalarda Teknik Borç ile Mücadele](https://github.com/buraksenyurt/sunumlar/blob/main/DevNot%20Summit%20-%20Monolitik%20Uygulamalarda%20Teknik%20Bor%C3%A7%20ile%20M%C3%BCcadele.pptx)
 - [Yeni Nesil Diller](https://github.com/buraksenyurt/sunumlar/blob/main/Yeni%20Nesil%20Diller.pptx)
 - [Techdili Mekan Sobhetleri 2020 - Beş Dakikalık Yolu Bir Saatte Gitmek](https://github.com/buraksenyurt/sunumlar/blob/main/Techdili%20Mekan%20Sobhetleri%202020%20-%20Be%C5%9F%20Dakikal%C4%B1k%20Yolu%20Bir%20Saatte%20Gitmek.pptx)
+- [Teknik Mülakatlar için Tavsiyeler](https://github.com/buraksenyurt/sunumlar/blob/main/TeknikMulakatTavsiyeler.png) Resimde yer alan konuya ait [Youtube yayın linki de burada.](https://www.youtube.com/watch?v=uJD7N97wG3w)
